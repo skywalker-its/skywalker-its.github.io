@@ -1,0 +1,30 @@
+.link{
+    margin-top: 10px;
+  }
+  
+  .link a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: rgb(26, 11, 243);
+    font-family: fantasy;
+    font-size: 50px;
+    letter-spacing: 15px;
+    padding: 10px 50px;
+    border-radius: 200px;
+  }
+  
+  .footer{
+    margin-top: 100px;
+    padding: 10px 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .footerr{
+    margin-top: 100px;
+    padding: 10px 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+  }

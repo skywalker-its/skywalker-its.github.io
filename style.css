@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    background-color: rgb(10, 230, 238);
+    height: 700px;
+    background: fixed;
+    background-image: url(https://thumbs.gfycat.com/FairTenseAntlion-max-1mb.gif);
+    background-size: cover;
+  }
+
+
+  *{
+    box-sizing: border-box;
+  }
+  h1{
+          color: blue;
+          height: 90px;
+          position: relative;
+  }
+
+  /* .abcd{
+    width :100%;
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+    padding:25px; 
+    color:rgb(255, 0, 212);
+
+  } */
+
+  li{
+    font-style: italic;
+  }
+
+  .portName-menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+    padding-top: 50px;
+    margin-top: 10px;
+}
+
+
+/* .header{
+  background-color: rgb(10, 230, 238);
+  height: 700px;
+  background: fixed;
+  background-image: url(https://thumbs.gfycat.com/FairTenseAntlion-max-1mb.gif);
+  background-size: cover;
+  
+} */
+
+
+.Name{
+  color: cyan;
+  font-size: xxx-large;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-stretch: extra-expanded; 
+  font-variant: petite-caps;
+  font-weight: 800;
+  font-family: auto;
+  float: right;
+  margin-top: 20px;
+}
+
+.link{
+  margin-top: 10px;
+}
+
+.link a{
+  text-decoration: none;
+  margin-left: 30px;
+  color: white;
+  font-family: fantasy;
+  font-size: 30px;
+  letter-spacing: 3px;
+  padding: 10px 50px;
+  border-radius: 20px;
+}
+

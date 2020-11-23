@@ -1,0 +1,171 @@
+* {
+    /* color: #1e90ff; */
+    /* background-color: #FAF3DD; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+
+.abcd{
+  font-size: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding:25px   
+}
+
+.images {
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.drawing{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.drawing:hover img {
+    opacity: 0.5;
+}
+
+.drawing:hover {
+    transform: scale(1.15);
+}
+
+.trex{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.trex:hover img {
+    opacity: 0.5;
+}
+
+.trex:hover {
+    transform: scale(1.15);
+}
+
+.maze{
+    max-width: 800px;
+    border: dashed;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.maze:hover img {
+    opacity: 0.5;
+}
+
+.maze:hover {
+    transform: scale(1.15);
+}
+
+.universe{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.universe:hover img {
+    opacity: 0.5;
+}
+
+.universe:hover {
+    transform: scale(1.15);
+}
+
+.monkey{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.monkey:hover img {
+    opacity: 0.5;
+}
+
+.monkey:hover {
+    transform: scale(1.15);
+}
+
+.ttt{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.ttt:hover img {
+    opacity: 0.5;
+}
+
+.ttt:hover {
+    transform: scale(1.15);
+}
+
+.footer{
+    display : flex;
+    justify-content: flex-end;
+}
+
+  h1{
+        text-align: center;
+        margin-left: 30px;
+        color : blue;
+        padding: 25px;
+        border: red
+        
+}
+
+body{
+    background: black;
+    color: whitesmoke;
+}
+
+a:link{
+    color: #f315b0;
+}
+
+a:visited{
+    color: #ee0bbd;
+}
+
+img{
+    box-shadow: 5px 5px 3px 1px #999
+}
+
+p{
+    text-align: center;
+    color: red
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/wp3284831.gif");
+}

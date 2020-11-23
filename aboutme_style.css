@@ -1,0 +1,54 @@
+
+.top a {
+    float: left;
+    color: rgb(233, 19, 19);
+    text-align: center;
+    margin: 10px;
+    padding: 50px 100px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  .top a:hover {
+    color: #390ef5;
+  }
+  
+  .images {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    left: 300;
+    top: 250;
+    overflow: hidden;
+    border-radius: 50%;
+    display: block;
+  }
+
+  h1 {
+    color: rgb(17, 20, 243);
+    font-family: serif;
+    font-size: 100px;
+    position: relative;
+    bottom: 100;
+    left: 100;
+}
+
+.header-content{
+    display: inline-block;
+    margin: 100px 220px;
+  }
+  
+  .header-content h1{
+    font-size: 60px;
+    color: rgb(22, 19, 19);
+    letter-spacing: 10px;
+  }
+  
+  .header-content p{
+    font-size: 30px;
+    color: #13fc0b;
+    text-align: center;
+    margin: 0 242px;
+    letter-spacing: 10px;
+  }
