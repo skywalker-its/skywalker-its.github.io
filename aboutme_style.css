@@ -52,3 +52,8 @@
     margin: 0 242px;
     letter-spacing: 10px;
   }
+
+.li{
+    color: blue;
+    font-family:italic
+}
